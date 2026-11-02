@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/**',
     'HEADER_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/**'
   }
-  s.dependency 'TXIMSDK_Plus_iOS_XCFramework'
+  #s.dependency 'TXIMSDK_Plus_iOS_XCFramework'
 end
